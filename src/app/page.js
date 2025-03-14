@@ -15,7 +15,7 @@ export default function Home() {
           >
             Delon Dede Afdilah
           </h1>
-          <p className="text-white/70 text-2xl text-center">Developer Keceh</p>
+          <p className="text-white/70 text-2xl text-center">Developer Kece</p>
         </div>
       </main>
     </div>
